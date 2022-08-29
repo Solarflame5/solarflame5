@@ -1,3 +1,5 @@
-## Welcome to my GitHub profile!
-
-I'm Solarflame5, a student that likes programming, 3D modelling and video games.
+# Hello, I'm Solarflame!
+Welcome to my GitHub profile.
+## Contact information
+- Discord: SolarFlame5#4120
+- Steam: [Solarflame](https://steamcommunity.com/id/solarflame5/)
